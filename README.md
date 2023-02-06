@@ -13,3 +13,4 @@
 
 * https://mobile.twitter.com/SurgeBiswas/status/1613232556673224705
 * Has AI discovered drug? https://www.science.org/content/blog-post/has-ai-discovered-drug-now-guess
+* [Why AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
