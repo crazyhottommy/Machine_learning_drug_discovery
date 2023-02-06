@@ -12,3 +12,4 @@
 ### we are not there yet?
 
 * https://mobile.twitter.com/SurgeBiswas/status/1613232556673224705
+* Has AI discovered drug? https://www.science.org/content/blog-post/has-ai-discovered-drug-now-guess
