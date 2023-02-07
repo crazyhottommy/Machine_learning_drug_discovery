@@ -1,4 +1,8 @@
 
+### Review papers
+
+* [Predictive validity in drug discovery: what it is, why it matters and how to improve it](https://www.nature.com/articles/s41573-022-00552-x)
+
 
 ### protein/antibody design
 
