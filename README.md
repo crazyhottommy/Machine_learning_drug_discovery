@@ -6,6 +6,8 @@
 
 ### protein/antibody design
 
+* [Efficient evolution of human antibodies from general protein language models](https://www.nature.com/articles/s41587-023-01763-2) https://twitter.com/ideasbyjin/status/1656640057384501248?s=51&t=sLukUyq0ReWrcwOwgUR_XA
+
 * [De novo design of protein interactions with learned surface fingerprints](https://www.nature.com/articles/s41586-023-05993-x)
 
 * [Large language models generate functional protein sequences across diverse families](https://www.nature.com/articles/s41587-022-01618-2)
