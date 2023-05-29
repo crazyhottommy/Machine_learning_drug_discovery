@@ -7,7 +7,7 @@
 
 ### small molecule- protein structure
 
-* [MISATO - Machine learning dataset for structure-based drug discovery](https://www.biorxiv.org/content/10.1101/2023.05.24.542082v2)
+* [MISATO - Machine learning dataset for structure-based drug discovery](https://www.biorxiv.org/content/10.1101/2023.05.24.542082v2).  nearly 20,000 experimental structures of protein-ligand complexes + associated properties:
 
 ### protein/antibody design
 
