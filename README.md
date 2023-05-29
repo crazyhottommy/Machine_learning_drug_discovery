@@ -3,6 +3,11 @@
 
 * [Predictive validity in drug discovery: what it is, why it matters and how to improve it](https://www.nature.com/articles/s41573-022-00552-x)
 * [Notes on end-to-end biology](https://nintil.com/biology-llms)
+* [Machine Learning for Protein Engineering](https://arxiv.org/abs/2305.16634)
+
+### small molecule- protein structure
+
+* [MISATO - Machine learning dataset for structure-based drug discovery](https://www.biorxiv.org/content/10.1101/2023.05.24.542082v2)
 
 ### protein/antibody design
 
