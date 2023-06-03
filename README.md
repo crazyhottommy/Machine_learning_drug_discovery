@@ -5,6 +5,8 @@
 * [Notes on end-to-end biology](https://nintil.com/biology-llms)
 * [Machine Learning for Protein Engineering](https://arxiv.org/abs/2305.16634)
 * [Inside the nascent industry of AI-designed drugs](https://www.nature.com/articles/s41591-023-02361-0)
+* [Tapping into the drug discovery potential of AI](https://www.nature.com/articles/d43747-021-00045-7)
+
 
 ### small molecule- protein structure
 
