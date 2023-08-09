@@ -13,6 +13,7 @@
 * [Has AI changed the course of Drug Development?](https://divingintogeneticsandgenomics.com/post/has-ai-changed-the-course-of-drug-development/) My own blog post!
 * ['The more overhype, the harder you fall': Schrödinger CEO warns on AI craze](https://endpts.com/how-will-ai-change-drug-development-schrodinger-ceo-warns-of-hype/)
 * [AI Poised To Revolutionize Drug Development](https://www.forbes.com/sites/greglicholai/2023/07/13/ai-poised-to-revolutionize-drug-development/?sh=100377d87ca4)
+* [Where is generative design in drug discovery today?](https://medium.com/@leowossnig/where-is-generative-design-in-drug-discovery-today-7234945177cf)
 
 ### small molecule- protein structure
 
