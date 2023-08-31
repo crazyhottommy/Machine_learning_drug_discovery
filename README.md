@@ -37,6 +37,11 @@
 
 * [Unlocking de novo antibody design with generative artificial intelligence](https://www.biorxiv.org/content/10.1101/2023.01.08.523187v3)
 
+### protein-protein interaction
+
+* [High-accuracy mapping of human and viral direct physical protein-protein interactions using the novel computational system AlphaFold-pairs](https://www.biorxiv.org/content/10.1101/2023.08.29.555151v1)
+* [Evaluation of AlphaFold Antibody-Antigen Modeling with Implications for Improving Predictive Accuracy](https://www.biorxiv.org/content/10.1101/2023.07.05.547832v2)
+  
 ### we are not there yet?
 
 * https://mobile.twitter.com/SurgeBiswas/status/1613232556673224705
