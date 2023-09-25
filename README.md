@@ -48,6 +48,7 @@
   
 ### we are not there yet?
 
+* [AlphaFold touted as next big thing for drug discovery — but is it?](https://www.nature.com/articles/d41586-023-02984-w)
 * https://mobile.twitter.com/SurgeBiswas/status/1613232556673224705
 * [AI-driven drug discovery companies, BenevolentAI, recently underwent layoffs and restructuring in response to a PhIIa failure of their atopic dermatitis program](https://decodingbio.substack.com/p/biobyte-032-ai-and-the-overlooked)
 * [DeepMind AlphaFold for antibody discovery: What's the status?](https://www.naturalantibody.com/use-case/deepmind-alphafold-for-antibody-discovery-whats-the-status/) Experimental conclusion: We performed a very easy experiment to check if there’s “a free lunch” for antibody discovery employing AlphaFold2. Unfortunately, according to our results, this is not the case"
