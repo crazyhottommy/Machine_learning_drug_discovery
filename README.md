@@ -19,6 +19,7 @@
 
 ### small molecule- protein structure
 
+* [Diffusion Models in Generative Chemistry for Drug Design](https://medium.com/@cch57/exploring-the-promise-of-generative-models-in-chemistry-an-introduction-to-diffusion-models-31530e9d1dcb)
 * [MISATO - Machine learning dataset for structure-based drug discovery](https://www.biorxiv.org/content/10.1101/2023.05.24.542082v2).  nearly 20,000 experimental structures of protein-ligand complexes + associated properties:
 * [PoseCheck is a package for analysing the quality of generated protein-ligand complexes from 3D target-condtioned generative models](https://github.com/cch1999/posecheck)
 
