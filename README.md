@@ -20,9 +20,13 @@
 ### small molecule- protein structure
 
 * [MISATO - Machine learning dataset for structure-based drug discovery](https://www.biorxiv.org/content/10.1101/2023.05.24.542082v2).  nearly 20,000 experimental structures of protein-ligand complexes + associated properties:
+* [PoseCheck is a package for analysing the quality of generated protein-ligand complexes from 3D target-condtioned generative models](https://github.com/cch1999/posecheck)
+
 
 ### protein/antibody design
 
+* [Generative Diffusion Models for Antibody Design, Docking, and Optimization}(https://www.biorxiv.org/content/10.1101/2023.09.25.559190v1)
+  
 * [Improving antibody language models with native pairing](https://arxiv.org/abs/2308.14300)
 
 * ProteinFlow is an open-source Python library that streamlines the pre-processing of protein structure data for deep learning applications. ProteinFlow enables users to efficiently filter, cluster, and generate new datasets from resources like the Protein Data Bank (PDB) and SAbDab (The Structural Antibody Database https://github.com/adaptyvbio/ProteinFlow
