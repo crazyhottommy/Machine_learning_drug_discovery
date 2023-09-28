@@ -24,6 +24,8 @@
 ### protein/antibody design
 
 * [Improving antibody language models with native pairing](https://arxiv.org/abs/2308.14300)
+
+* ProteinFlow is an open-source Python library that streamlines the pre-processing of protein structure data for deep learning applications. ProteinFlow enables users to efficiently filter, cluster, and generate new datasets from resources like the Protein Data Bank (PDB) and SAbDab (The Structural Antibody Database https://github.com/adaptyvbio/ProteinFlow
   
 * [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL)
   
