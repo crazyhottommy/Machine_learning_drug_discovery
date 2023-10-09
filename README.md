@@ -49,7 +49,10 @@
 * Excited to share our new computational method, APPRAISE, that ranks engineered proteins by how likely they bind to a target. [Fast, accurate ranking of engineered proteins by receptor binding propensity using structural modeling](https://www.biorxiv.org/content/10.1101/2023.01.11.523680v1.full)  https://twitter.com/dingxiaozhe/status/1618257727515676672?s=46&t=f8b5WHByAZFWrIkVXOgyAQ
 
 * [Unlocking de novo antibody design with generative artificial intelligence](https://www.biorxiv.org/content/10.1101/2023.01.08.523187v3)
+
 * [Ten quick tips for sequence-based prediction of protein properties using machine learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010669)
+
+* [The amino acid sequence determines protein abundance through its conformational stability and reduced synthesis cost]()
 
 ### protein-protein interaction
 
