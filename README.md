@@ -52,7 +52,9 @@
 
 * [Ten quick tips for sequence-based prediction of protein properties using machine learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010669)
 
-* [The amino acid sequence determines protein abundance through its conformational stability and reduced synthesis cost]()
+* [The amino acid sequence determines protein abundance through its conformational stability and reduced synthesis cost](https://www.biorxiv.org/content/10.1101/2023.10.02.560091v1)
+
+* [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model](https://arxiv.org/abs/2310.10605)
 
 ### protein-protein interaction
 
