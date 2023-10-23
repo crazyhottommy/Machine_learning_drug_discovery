@@ -28,7 +28,7 @@
 
 ### protein/antibody design
 
-* [Generative Diffusion Models for Antibody Design, Docking, and Optimization}(https://www.biorxiv.org/content/10.1101/2023.09.25.559190v1)
+* [Generative Diffusion Models for Antibody Design, Docking, and Optimization](https://www.biorxiv.org/content/10.1101/2023.09.25.559190v1)
   
 * [Improving antibody language models with native pairing](https://arxiv.org/abs/2308.14300)
 
