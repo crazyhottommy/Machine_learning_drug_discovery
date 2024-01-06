@@ -29,6 +29,10 @@
 
 ### protein/antibody design
 
+* [Illuminating protein space with a programmable generative model](https://www.nature.com/articles/s41586-023-06728-8)
+  
+* [In vitro validated antibody design against multiple therapeutic antigens using generative inverse folding](https://www.biorxiv.org/content/10.1101/2023.12.08.570889v1.abstract)
+
 * [Generative Diffusion Models for Antibody Design, Docking, and Optimization](https://www.biorxiv.org/content/10.1101/2023.09.25.559190v1)
   
 * [Improving antibody language models with native pairing](https://arxiv.org/abs/2308.14300)
