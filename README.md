@@ -29,6 +29,8 @@
 
 ### protein/antibody design
 
+* [Inverse folding of protein complexes with a structure-informed language model enables unsupervised antibody evolution](https://www.biorxiv.org/content/10.1101/2023.12.19.572475v2)
+
 * [Illuminating protein space with a programmable generative model](https://www.nature.com/articles/s41586-023-06728-8)
   
 * [In vitro validated antibody design against multiple therapeutic antigens using generative inverse folding](https://www.biorxiv.org/content/10.1101/2023.12.08.570889v1.abstract)
