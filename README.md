@@ -25,6 +25,7 @@
 * [PoseCheck is a package for analysing the quality of generated protein-ligand complexes from 3D target-condtioned generative models](https://github.com/cch1999/posecheck)
 * [ProteinFlow](https://github.com/adaptyvbio/ProteinFlow) is an open-source Python library that streamlines the pre-processing of protein structure data for deep learning applications. ProteinFlow enables users to efficiently filter, cluster, and generate new datasets from resources like the Protein Data Bank (PDB) and SAbDab (The Structural Antibody Database).
 * [Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning](https://www.biorxiv.org/content/10.1101/2023.08.10.552868v1)
+* [Drug target prediction through deep learning functional representation of gene signatures](https://www.nature.com/articles/s41467-024-46089-y)
 
 
 ### protein/antibody design
