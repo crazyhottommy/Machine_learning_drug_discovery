@@ -30,6 +30,8 @@
 
 ### protein/antibody design
 
+*  Robust deep learning–based protein sequence design using ProteinMPNN | Science https://www.science.org/doi/10.1126/science.add2187
+
 * [Inverse folding of protein complexes with a structure-informed language model enables unsupervised antibody evolution](https://www.biorxiv.org/content/10.1101/2023.12.19.572475v2)
 
 * [Illuminating protein space with a programmable generative model](https://www.nature.com/articles/s41586-023-06728-8)
