@@ -33,6 +33,8 @@
 * [A primer on ML in antibody engineering](https://www.abhishaike.com/p/a-primer-on-ai-in-antibody-engineering)
 
 * ML protein engineering seminars https://www.ml4proteinengineering.com/
+
+* ProtMamba: a homology-aware but alignment-free protein state space model https://github.com/Bitbol-Lab/ProtMamba-ssm
   
 * Robust deep learning–based protein sequence design using ProteinMPNN | Science https://www.science.org/doi/10.1126/science.add2187
 
