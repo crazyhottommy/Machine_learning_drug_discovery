@@ -31,6 +31,8 @@
 ### protein/antibody design
 
 * [A primer on ML in antibody engineering](https://www.abhishaike.com/p/a-primer-on-ai-in-antibody-engineering)
+  
+*  Simple binder design pipeline using AlphaFold2 backpropagation, MPNN, and PyRosetta. [BindCraft](https://github.com/martinpacesa/BindCraft)
 
 * ML protein engineering seminars https://www.ml4proteinengineering.com/
 
