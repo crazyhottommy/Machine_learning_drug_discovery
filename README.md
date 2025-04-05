@@ -9,6 +9,7 @@
 * [The digital and analog worlds of protein engineering](https://www.nature.com/articles/s41587-023-01938-x)
 * [Artificial intelligence for natural product drug discovery](https://www.nature.com/articles/s41573-023-00774-7)
 * [AI-powered therapeutic target discovery](https://www.cell.com/trends/pharmacological-sciences/fulltext/S0165-6147(23)00137-2#%20)
+* [Leveraging real-world data to advance biomarker discovery and precision oncology](https://www.cell.com/cancer-cell/abstract/S1535-6108(25)00113-8)
 
 ### blog post
 
